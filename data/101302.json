@@ -1,0 +1,16 @@
+{
+    "id": 101302,
+    "anidb": 13657,
+    "myanimelist": 36946,
+    "title": "Dragon Ball Super: Broly",
+    "mappings": {
+        "gogoanime": [
+            "dragon-ball-super-movie-broly",
+            "dragon-ball-super-movie-broly-dub"
+        ],
+        "hianime": [
+            "dragon-ball-super-broly-387",
+            "super-dragon-ball-heroes-meteor-mission-19175"
+        ]
+    }
+}

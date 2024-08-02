@@ -1,0 +1,15 @@
+{
+    "id": 299,
+    "anidb": 222,
+    "myanimelist": 299,
+    "title": ".hack//Liminality",
+    "mappings": {
+        "gogoanime": [
+            "hackliminality",
+            "hackliminality-dub"
+        ],
+        "hianime": [
+            "hackliminality-5194"
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "id": 435,
+    "anidb": 127,
+    "myanimelist": 435,
+    "title": "Magic Knight Rayearth",
+    "mappings": {
+        "gogoanime": [
+            "magic-knight-rayearth",
+            "magic-knight-rayearth-2",
+            "magic-knight-rayearth-dub"
+        ],
+        "hianime": [
+            "magic-knight-rayearth-1680"
+        ]
+    }
+}

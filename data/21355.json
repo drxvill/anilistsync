@@ -1,0 +1,17 @@
+{
+    "id": 21355,
+    "anidb": 11370,
+    "myanimelist": 31240,
+    "title": "Re:Zero kara Hajimeru Isekai Seikatsu",
+    "mappings": {
+        "gogoanime": [
+            "rezero-kara-hajimeru-isekai-seikatsu",
+            "rezero-kara-hajimeru-isekai-seikatsu-dub",
+            "rezero-kara-hajimeru-isekai-seikatsu-shin-henshuu-ban",
+            "rezero-kara-hajimeru-isekai-seikatsu-shin-henshuu-ban-dub"
+        ],
+        "hianime": [
+            "rezero-starting-life-in-another-world-212"
+        ]
+    }
+}

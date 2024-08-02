@@ -1,0 +1,15 @@
+{
+    "id": 232,
+    "anidb": 102,
+    "myanimelist": 232,
+    "title": "Cardcaptor Sakura",
+    "mappings": {
+        "gogoanime": [
+            "card-captor-sakura",
+            "cardcaptor-sakura-dub"
+        ],
+        "hianime": [
+            "cardcaptor-sakura-340"
+        ]
+    }
+}

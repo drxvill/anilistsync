@@ -1,0 +1,16 @@
+{
+    "id": 2156,
+    "anidb": 5098,
+    "myanimelist": 2156,
+    "title": "Bakugan Battle Brawlers",
+    "mappings": {
+        "gogoanime": [
+            "bakugan-battle-brawlers",
+            "bakugan-battle-brawlers-dub",
+            "bakugan-dub"
+        ],
+        "hianime": [
+            "bakugan-battle-brawlers-6724"
+        ]
+    }
+}

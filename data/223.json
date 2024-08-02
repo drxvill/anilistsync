@@ -1,0 +1,15 @@
+{
+    "id": 223,
+    "anidb": 231,
+    "myanimelist": 223,
+    "title": "Dragon Ball",
+    "mappings": {
+        "gogoanime": [
+            "dragon-ball",
+            "dragon-ball-dub"
+        ],
+        "hianime": [
+            "dragon-ball-509"
+        ]
+    }
+}

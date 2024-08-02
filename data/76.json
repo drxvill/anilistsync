@@ -1,0 +1,16 @@
+{
+    "id": 76,
+    "anidb": 2430,
+    "myanimelist": 76,
+    "title": "Mahou Shoujo Lyrical Nanoha",
+    "mappings": {
+        "gogoanime": [
+            "magical-girl-lyrical-nanoha",
+            "mahou-shoujo-lyrical-nanoha-as-dub",
+            "mahou-shoujo-lyrical-nanoha-dub"
+        ],
+        "hianime": [
+            "magical-girl-lyrical-nanoha-1818"
+        ]
+    }
+}

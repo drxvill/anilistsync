@@ -1,0 +1,15 @@
+{
+    "id": 20,
+    "anidb": 239,
+    "myanimelist": 20,
+    "title": "Naruto",
+    "mappings": {
+        "gogoanime": [
+            "naruto",
+            "naruto-dub"
+        ],
+        "hianime": [
+            "naruto-677"
+        ]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "id": 22,
+    "anidb": 56,
+    "myanimelist": 22,
+    "title": "Tennis no Oujisama",
+    "mappings": {
+        "gogoanime": [
+            "prince-of-tennis",
+            "the-prince-of-tennis-ova",
+            "the-prince-of-tennis-showdown-in-englands-tennis-fortress",
+            "tennis-no-ouji-sama-dub"
+        ],
+        "hianime": [
+            "the-prince-of-tennis-640"
+        ]
+    }
+}

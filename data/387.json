@@ -1,0 +1,15 @@
+{
+    "id": 387,
+    "anidb": 271,
+    "myanimelist": 387,
+    "title": "Haibane Renmei",
+    "mappings": {
+        "gogoanime": [
+            "haibane-renmei",
+            "haibane-renmei-dub"
+        ],
+        "hianime": [
+            "haibane-renmei-531"
+        ]
+    }
+}

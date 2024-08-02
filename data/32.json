@@ -1,0 +1,15 @@
+{
+    "id": 32,
+    "anidb": 202,
+    "myanimelist": 32,
+    "title": "Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni",
+    "mappings": {
+        "gogoanime": [
+            "evangelion-the-end-of-evangelion",
+            "neon-genesis-evangelion-the-end-of-evangelion-dub"
+        ],
+        "hianime": [
+            "neon-genesis-evangelion-movie-the-end-of-evangelion-93"
+        ]
+    }
+}

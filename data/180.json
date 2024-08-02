@@ -1,0 +1,15 @@
+{
+    "id": 180,
+    "anidb": 177,
+    "myanimelist": 180,
+    "title": "Vandread",
+    "mappings": {
+        "gogoanime": [
+            "vandread",
+            "vandread-dub"
+        ],
+        "hianime": [
+            "vandread-2684"
+        ]
+    }
+}

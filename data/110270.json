@@ -1,0 +1,16 @@
+{
+    "id": 110270,
+    "anidb": 14969,
+    "myanimelist": 40010,
+    "title": "Ishuzoku Reviewers",
+    "mappings": {
+        "gogoanime": [
+            "ishuzoku-reviewers",
+            "ishuzoku-reviewers-dub",
+            "ishuzoku-reviewers-uncensored"
+        ],
+        "hianime": [
+            "interspecies-reviewers-1208"
+        ]
+    }
+}

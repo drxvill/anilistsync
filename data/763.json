@@ -1,0 +1,15 @@
+{
+    "id": 763,
+    "anidb": 1382,
+    "myanimelist": 763,
+    "title": "Zoids",
+    "mappings": {
+        "gogoanime": [
+            "zoids-dub",
+            "zoids-1999"
+        ],
+        "hianime": [
+            "zoids-1957"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "id": 52,
+    "anidb": 170,
+    "myanimelist": 52,
+    "title": "Kidou Tenshi Angelic Layer",
+    "mappings": {
+        "gogoanime": [
+            "angelic-layer-dub",
+            "angelic-layer-"
+        ],
+        "hianime": [
+            "battle-doll-angelic-layer-2519"
+        ]
+    }
+}

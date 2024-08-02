@@ -1,0 +1,15 @@
+{
+    "id": 650,
+    "anidb": 45,
+    "myanimelist": 650,
+    "title": "Gunsmith Cats",
+    "mappings": {
+        "gogoanime": [
+            "gunsmith-cats",
+            "gunsmith-cats-dub"
+        ],
+        "hianime": [
+            "gunsmith-cats-2490"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "id": 80,
+    "anidb": 715,
+    "myanimelist": 80,
+    "title": "Kidou Senshi Gundam",
+    "mappings": {
+        "gogoanime": [
+            "mobile-suit-gundam-dub",
+            "mobile-suit-gundam"
+        ],
+        "hianime": [
+            "mobile-suit-gundam-856"
+        ]
+    }
+}

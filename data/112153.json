@@ -1,0 +1,15 @@
+{
+    "id": 112153,
+    "anidb": 15067,
+    "myanimelist": 40351,
+    "title": "Pokemon (2019)",
+    "mappings": {
+        "gogoanime": [
+            "pokemon-2019",
+            "pokemon-2019-dub"
+        ],
+        "hianime": [
+            "pokemon-journeys-the-series-2098"
+        ]
+    }
+}

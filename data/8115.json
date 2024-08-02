@@ -1,0 +1,16 @@
+{
+    "id": 8115,
+    "anidb": 7231,
+    "myanimelist": 8115,
+    "title": "Uchuu Show e Youkoso",
+    "mappings": {
+        "gogoanime": [
+            "uchuu-show-e-youkoso",
+            "uchuu-show-e-youkoso-dub",
+            "welcome-to-the-space-show-dub"
+        ],
+        "hianime": [
+            "welcome-to-the-space-show-2022"
+        ]
+    }
+}

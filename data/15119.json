@@ -1,0 +1,16 @@
+{
+    "id": 15119,
+    "anidb": 9166,
+    "myanimelist": 15119,
+    "title": "Senran Kagura",
+    "mappings": {
+        "gogoanime": [
+            "-senran-kagura-ova",
+            "senran-kagura-",
+            "senran-kagura-dub"
+        ],
+        "hianime": [
+            "senran-kagura-ninja-flash-6493"
+        ]
+    }
+}

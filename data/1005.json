@@ -1,0 +1,15 @@
+{
+    "id": 1005,
+    "anidb": 85,
+    "myanimelist": 1005,
+    "title": "Star Ocean EX",
+    "mappings": {
+        "gogoanime": [
+            "star-ocean-ex-dub",
+            "star-ocean-ex"
+        ],
+        "hianime": [
+            "star-ocean-ex-5238"
+        ]
+    }
+}

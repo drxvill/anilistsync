@@ -1,0 +1,15 @@
+{
+    "id": 138699,
+    "anidb": 16599,
+    "myanimelist": 49730,
+    "title": "Pokemon Evolutions",
+    "mappings": {
+        "gogoanime": [
+            "pokemon-evolutions",
+            "pokemon-evolutions-dub"
+        ],
+        "hianime": [
+            "pokemon-evolutions-18507"
+        ]
+    }
+}

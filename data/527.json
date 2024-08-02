@@ -1,0 +1,16 @@
+{
+    "id": 527,
+    "anidb": 230,
+    "myanimelist": 527,
+    "title": "Pokemon",
+    "mappings": {
+        "gogoanime": [
+            "pokemon-dub",
+            "pokemon-4ever-dub",
+            "pokemon"
+        ],
+        "hianime": [
+            "pokemon-2097"
+        ]
+    }
+}

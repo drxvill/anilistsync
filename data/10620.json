@@ -1,0 +1,16 @@
+{
+    "id": 10620,
+    "anidb": 8395,
+    "myanimelist": 10620,
+    "title": "Mirai Nikki (TV)",
+    "mappings": {
+        "gogoanime": [
+            "mirai-nikki",
+            "mirai-nikki-tv-dub",
+            "logging-10000-years-into-the-future"
+        ],
+        "hianime": [
+            "the-future-diary-1281"
+        ]
+    }
+}

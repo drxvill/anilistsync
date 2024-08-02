@@ -1,0 +1,16 @@
+{
+    "id": 130,
+    "anidb": 1081,
+    "myanimelist": 130,
+    "title": "Saiyuuki Reload",
+    "mappings": {
+        "gogoanime": [
+            "saiyuki-",
+            "saiyuki-reload-",
+            "saiyuki-reload-dub"
+        ],
+        "hianime": [
+            "saiyuki-reload-1845"
+        ]
+    }
+}

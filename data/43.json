@@ -1,0 +1,15 @@
+{
+    "id": 43,
+    "anidb": 61,
+    "myanimelist": 43,
+    "title": "Koukaku Kidoutai",
+    "mappings": {
+        "gogoanime": [
+            "ghost-in-the-shell",
+            "ghost-in-the-shell-dub"
+        ],
+        "hianime": [
+            "ghost-in-the-shell-220"
+        ]
+    }
+}

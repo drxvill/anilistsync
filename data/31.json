@@ -1,0 +1,15 @@
+{
+    "id": 31,
+    "anidb": 326,
+    "myanimelist": 31,
+    "title": "Shinseiki Evangelion Movie: Shi to Shinsei",
+    "mappings": {
+        "gogoanime": [
+            "evangelion-death-and-rebirth",
+            "neon-genesis-evangelion-death-rebirth-dub"
+        ],
+        "hianime": [
+            "neon-genesis-evangelion-death-rebirth-1723"
+        ]
+    }
+}

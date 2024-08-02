@@ -1,0 +1,15 @@
+{
+    "id": 3588,
+    "anidb": 5610,
+    "myanimelist": 3588,
+    "title": "Soul Eater",
+    "mappings": {
+        "gogoanime": [
+            "soul-eater-",
+            "soul-eater-dub"
+        ],
+        "hianime": [
+            "soul-eater-655"
+        ]
+    }
+}

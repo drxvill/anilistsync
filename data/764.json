@@ -1,0 +1,15 @@
+{
+    "id": 764,
+    "anidb": 1774,
+    "myanimelist": 764,
+    "title": "Zoids Shinseiki/Zero",
+    "mappings": {
+        "gogoanime": [
+            "zoids-new-century-zero",
+            "zoids-shinseikizero-dub"
+        ],
+        "hianime": [
+            "zoids-new-century-2107"
+        ]
+    }
+}

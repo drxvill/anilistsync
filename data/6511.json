@@ -1,0 +1,16 @@
+{
+    "id": 6511,
+    "anidb": 4202,
+    "myanimelist": 6511,
+    "title": "Chou Seimeitai Transformers Beast Wars Neo",
+    "mappings": {
+        "gogoanime": [
+            "beast-wars",
+            "transformers-beast-wars-dub",
+            "beast-wars-neo"
+        ],
+        "hianime": [
+            "beast-wars-neo-6050"
+        ]
+    }
+}

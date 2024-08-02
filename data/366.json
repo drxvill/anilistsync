@@ -1,0 +1,15 @@
+{
+    "id": 366,
+    "anidb": 280,
+    "myanimelist": 366,
+    "title": "AIKa",
+    "mappings": {
+        "gogoanime": [
+            "agent-aika",
+            "aika-dub"
+        ],
+        "hianime": [
+            "agent-aika-8180"
+        ]
+    }
+}

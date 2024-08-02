@@ -1,0 +1,16 @@
+{
+    "id": 20615,
+    "anidb": 10417,
+    "myanimelist": 22273,
+    "title": "Selector Infected WIXOSS",
+    "mappings": {
+        "gogoanime": [
+            "selector-infected-wixoss",
+            "selector-infected-wixoss-dub",
+            "selector-infected-wixoss-specials"
+        ],
+        "hianime": [
+            "selector-infected-wixoss-2437"
+        ]
+    }
+}

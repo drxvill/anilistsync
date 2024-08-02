@@ -1,0 +1,15 @@
+{
+    "id": 59,
+    "anidb": 12,
+    "myanimelist": 59,
+    "title": "Chobits",
+    "mappings": {
+        "gogoanime": [
+            "chobits",
+            "chobits-dub"
+        ],
+        "hianime": [
+            "chobits-1755"
+        ]
+    }
+}

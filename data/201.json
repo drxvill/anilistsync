@@ -1,0 +1,15 @@
+{
+    "id": 201,
+    "anidb": 63,
+    "myanimelist": 201,
+    "title": "Video Girl Ai",
+    "mappings": {
+        "gogoanime": [
+            "video-girl-ai-dub",
+            "video-girl-ai"
+        ],
+        "hianime": [
+            "video-girl-ai-2708"
+        ]
+    }
+}

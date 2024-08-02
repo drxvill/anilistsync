@@ -1,0 +1,15 @@
+{
+    "id": 205,
+    "anidb": 1543,
+    "myanimelist": 205,
+    "title": "Samurai Champloo",
+    "mappings": {
+        "gogoanime": [
+            "samurai-champloo",
+            "samurai-champloo-dub"
+        ],
+        "hianime": [
+            "samurai-champloo-98"
+        ]
+    }
+}

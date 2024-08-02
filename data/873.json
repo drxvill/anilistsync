@@ -1,0 +1,15 @@
+{
+    "id": 873,
+    "anidb": 4324,
+    "myanimelist": 873,
+    "title": ".hack//Roots",
+    "mappings": {
+        "gogoanime": [
+            "hackroots",
+            "hackroots-dub"
+        ],
+        "hianime": [
+            "hackroots-3886"
+        ]
+    }
+}

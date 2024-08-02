@@ -1,0 +1,16 @@
+{
+    "id": 678,
+    "anidb": 42,
+    "myanimelist": 678,
+    "title": "Shadow Skill: Eigi",
+    "mappings": {
+        "gogoanime": [
+            "shadow-raiders",
+            "shadow-skill-",
+            "shadow-skill-tv-dub"
+        ],
+        "hianime": [
+            "shadow-skill-eigi-3101"
+        ]
+    }
+}

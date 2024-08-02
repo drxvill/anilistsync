@@ -1,0 +1,15 @@
+{
+    "id": 339,
+    "anidb": 99,
+    "myanimelist": 339,
+    "title": "Serial Experiments Lain",
+    "mappings": {
+        "gogoanime": [
+            "serial-experiments-lain",
+            "serial-experiments-lain-dub"
+        ],
+        "hianime": [
+            "serial-experiments-lain-503"
+        ]
+    }
+}

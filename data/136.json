@@ -1,0 +1,15 @@
+{
+    "id": 136,
+    "anidb": 132,
+    "myanimelist": 136,
+    "title": "Hunter x Hunter",
+    "mappings": {
+        "gogoanime": [
+            "hunter-x-hunter",
+            "hunter-x-hunter-dub"
+        ],
+        "hianime": [
+            "hunter-x-hunter-128"
+        ]
+    }
+}

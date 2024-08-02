@@ -1,0 +1,15 @@
+{
+    "id": 202,
+    "anidb": 449,
+    "myanimelist": 202,
+    "title": "Wolf's Rain",
+    "mappings": {
+        "gogoanime": [
+            "wolfs-rain",
+            "wolfs-rain-dub"
+        ],
+        "hianime": [
+            "wolfs-rain-763"
+        ]
+    }
+}

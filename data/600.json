@@ -1,0 +1,15 @@
+{
+    "id": 600,
+    "anidb": 2694,
+    "myanimelist": 600,
+    "title": "Legend of Duo",
+    "mappings": {
+        "gogoanime": [
+            "the-legend-of-zelda-",
+            "legend-of-duo"
+        ],
+        "hianime": [
+            "legend-of-duo-10296"
+        ]
+    }
+}

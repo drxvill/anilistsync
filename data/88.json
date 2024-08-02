@@ -1,0 +1,15 @@
+{
+    "id": 88,
+    "anidb": 626,
+    "myanimelist": 88,
+    "title": "Kidou Senshi Gundam F91",
+    "mappings": {
+        "gogoanime": [
+            "gundam-f91",
+            "mobile-suit-gundam-f91-dub"
+        ],
+        "hianime": [
+            "mobile-suit-gundam-f91-4838"
+        ]
+    }
+}

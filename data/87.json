@@ -1,0 +1,15 @@
+{
+    "id": 87,
+    "anidb": 720,
+    "myanimelist": 87,
+    "title": "Kidou Senshi Gundam: Gyakushuu no Char",
+    "mappings": {
+        "gogoanime": [
+            "mobile-suit-gundam-chars-counterattack-dub",
+            "mobile-suit-gundam-chars-counterattack"
+        ],
+        "hianime": [
+            "mobile-suit-gundam-chars-counterattack-1083"
+        ]
+    }
+}

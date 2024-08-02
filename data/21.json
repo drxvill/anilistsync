@@ -1,0 +1,15 @@
+{
+    "id": 21,
+    "anidb": 69,
+    "myanimelist": 21,
+    "title": "One Piece",
+    "mappings": {
+        "gogoanime": [
+            "one-piece",
+            "one-piece-dub"
+        ],
+        "hianime": [
+            "one-piece-100"
+        ]
+    }
+}

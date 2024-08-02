@@ -1,0 +1,15 @@
+{
+    "id": 207,
+    "anidb": 169,
+    "myanimelist": 207,
+    "title": "Lodoss-tou Senki",
+    "mappings": {
+        "gogoanime": [
+            "record-of-lodoss-war-dub",
+            "record-of-lodoss-war"
+        ],
+        "hianime": [
+            "record-of-lodoss-war-1893"
+        ]
+    }
+}

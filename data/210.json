@@ -1,0 +1,16 @@
+{
+    "id": 210,
+    "anidb": 193,
+    "myanimelist": 210,
+    "title": "Ranma \u00bd",
+    "mappings": {
+        "gogoanime": [
+            "ranma-12",
+            "ranma-dub",
+            "ranma-12-movie"
+        ],
+        "hianime": [
+            "ranma-876"
+        ]
+    }
+}

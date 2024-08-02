@@ -1,0 +1,15 @@
+{
+    "id": 135,
+    "anidb": 84,
+    "myanimelist": 135,
+    "title": "Hikaru no Go",
+    "mappings": {
+        "gogoanime": [
+            "hikaru-no-go",
+            "hikaru-no-go-dub"
+        ],
+        "hianime": [
+            "hikaru-no-go-392"
+        ]
+    }
+}

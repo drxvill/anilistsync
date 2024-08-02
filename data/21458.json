@@ -1,0 +1,16 @@
+{
+    "id": 21458,
+    "anidb": 11740,
+    "myanimelist": 31973,
+    "title": "Kidou Senshi Gundam Thunderbolt",
+    "mappings": {
+        "gogoanime": [
+            "mobile-suit-gundam-thunderbolt",
+            "thunderbolt-fantasy",
+            "thunderbolt-fantasy-bewitching-melody-of-the-west"
+        ],
+        "hianime": [
+            "mobile-suit-gundam-thunderbolt-632"
+        ]
+    }
+}

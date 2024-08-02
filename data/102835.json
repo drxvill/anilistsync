@@ -1,0 +1,15 @@
+{
+    "id": 102835,
+    "anidb": 13891,
+    "myanimelist": 37436,
+    "title": "Revisions",
+    "mappings": {
+        "gogoanime": [
+            "revisions",
+            "revisions-dub"
+        ],
+        "hianime": [
+            "revisions-7231"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "id": 21236,
+    "anidb": 11291,
+    "myanimelist": 31049,
+    "title": "Beyblade Burst",
+    "mappings": {
+        "gogoanime": [
+            "beyblade-burst",
+            "beyblade-burst-dub"
+        ],
+        "hianime": [
+            "beyblade-burst-6502"
+        ]
+    }
+}

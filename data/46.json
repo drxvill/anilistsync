@@ -1,0 +1,15 @@
+{
+    "id": 46,
+    "anidb": 422,
+    "myanimelist": 46,
+    "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Chinkonka",
+    "mappings": {
+        "gogoanime": [
+            "rurouni-kenshin-movie-dub",
+            "rurouni-kenshin-ishin-shishi-no-requiem"
+        ],
+        "hianime": [
+            "samurai-x-the-motion-picture-requiem-for-the-restoration-royalists-1361"
+        ]
+    }
+}

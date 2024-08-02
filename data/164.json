@@ -1,0 +1,15 @@
+{
+    "id": 164,
+    "anidb": 7,
+    "myanimelist": 164,
+    "title": "Mononoke Hime",
+    "mappings": {
+        "gogoanime": [
+            "mononoke-hime-dub",
+            "princess-mononoke"
+        ],
+        "hianime": [
+            "princess-mononoke-36"
+        ]
+    }
+}

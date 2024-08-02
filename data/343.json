@@ -1,0 +1,16 @@
+{
+    "id": 343,
+    "anidb": 2478,
+    "myanimelist": 343,
+    "title": "Tsukuyomi: Moon Phase",
+    "mappings": {
+        "gogoanime": [
+            "tsukuyomi-moon-phase",
+            "tsukuyomi-moon-phase-dub",
+            "tsukuyomi-moon-phase-special-dub"
+        ],
+        "hianime": [
+            "tsukuyomi-moon-phase-3553"
+        ]
+    }
+}

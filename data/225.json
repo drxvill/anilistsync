@@ -1,0 +1,15 @@
+{
+    "id": 225,
+    "anidb": 233,
+    "myanimelist": 225,
+    "title": "Dragon Ball GT",
+    "mappings": {
+        "gogoanime": [
+            "dragon-ball-gt",
+            "dragon-ball-gt-dub"
+        ],
+        "hianime": [
+            "dragon-ball-gt-5743"
+        ]
+    }
+}

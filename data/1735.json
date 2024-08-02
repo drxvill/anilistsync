@@ -1,0 +1,15 @@
+{
+    "id": 1735,
+    "anidb": 4880,
+    "myanimelist": 1735,
+    "title": "Naruto: Shippuuden",
+    "mappings": {
+        "gogoanime": [
+            "naruto-shippuden",
+            "naruto-shippuuden-dub"
+        ],
+        "hianime": [
+            "naruto-shippuden-355"
+        ]
+    }
+}

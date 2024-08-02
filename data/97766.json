@@ -1,0 +1,15 @@
+{
+    "id": 97766,
+    "anidb": 12494,
+    "myanimelist": 34280,
+    "title": "Gamers!",
+    "mappings": {
+        "gogoanime": [
+            "gamers",
+            "gamers-dub"
+        ],
+        "hianime": [
+            "gamers-3664"
+        ]
+    }
+}

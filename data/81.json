@@ -1,0 +1,15 @@
+{
+    "id": 81,
+    "anidb": 217,
+    "myanimelist": 81,
+    "title": "Kidou Senshi Gundam: Dai 08 MS Shoutai",
+    "mappings": {
+        "gogoanime": [
+            "mobile-suit-gundam-the-08th-ms-team",
+            "mobile-suit-gundam-the-08th-ms-team-dub"
+        ],
+        "hianime": [
+            "mobile-suit-gundam-the-08th-ms-team-490"
+        ]
+    }
+}

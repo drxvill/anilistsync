@@ -1,0 +1,14 @@
+{
+    "id": 5678,
+    "anidb": 6258,
+    "myanimelist": 5678,
+    "title": "Kobato.",
+    "mappings": {
+        "gogoanime": [
+            "kobato"
+        ],
+        "hianime": [
+            "kobato-544"
+        ]
+    }
+}

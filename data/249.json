@@ -1,0 +1,15 @@
+{
+    "id": 249,
+    "anidb": 144,
+    "myanimelist": 249,
+    "title": "InuYasha",
+    "mappings": {
+        "gogoanime": [
+            "inuyasha",
+            "inuyasha-dub"
+        ],
+        "hianime": [
+            "inuyasha-739"
+        ]
+    }
+}

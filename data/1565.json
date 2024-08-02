@@ -1,0 +1,15 @@
+{
+    "id": 1565,
+    "anidb": 4728,
+    "myanimelist": 1565,
+    "title": "Pokemon Diamond & Pearl",
+    "mappings": {
+        "gogoanime": [
+            "pokemon-diamond-pearl-dub",
+            "pokemon-season-10-diamond-and-pearl-"
+        ],
+        "hianime": [
+            "pokemon-diamond-pearl-2692"
+        ]
+    }
+}

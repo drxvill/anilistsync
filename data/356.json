@@ -1,0 +1,15 @@
+{
+    "id": 356,
+    "anidb": 3348,
+    "myanimelist": 356,
+    "title": "Fate/stay night",
+    "mappings": {
+        "gogoanime": [
+            "fate-stay-night-",
+            "fatestay-night-dub"
+        ],
+        "hianime": [
+            "fatestay-night-2060"
+        ]
+    }
+}

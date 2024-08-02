@@ -1,0 +1,15 @@
+{
+    "id": 120,
+    "anidb": 34,
+    "myanimelist": 120,
+    "title": "Fruits Basket",
+    "mappings": {
+        "gogoanime": [
+            "fruits-basket",
+            "fruits-basket-dub"
+        ],
+        "hianime": [
+            "fruits-basket-2001-1024"
+        ]
+    }
+}

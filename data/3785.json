@@ -1,0 +1,15 @@
+{
+    "id": 3785,
+    "anidb": 7565,
+    "myanimelist": 3785,
+    "title": "Evangelion Movie 3: Q",
+    "mappings": {
+        "gogoanime": [
+            "evangelion-3-0-you-can-not-redo-dub",
+            "evangelion-30-you-can-not-redo-movie"
+        ],
+        "hianime": [
+            "evangelion-30-you-can-not-redo-1314"
+        ]
+    }
+}

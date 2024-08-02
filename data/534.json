@@ -1,0 +1,15 @@
+{
+    "id": 534,
+    "anidb": 39,
+    "myanimelist": 534,
+    "title": "Slayers",
+    "mappings": {
+        "gogoanime": [
+            "slayers",
+            "slayers-dub"
+        ],
+        "hianime": [
+            "slayers-879"
+        ]
+    }
+}

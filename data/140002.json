@@ -1,0 +1,15 @@
+{
+    "id": 140002,
+    "anidb": 16842,
+    "myanimelist": 50012,
+    "title": "Meitantei Conan: Zero no Tea Time",
+    "mappings": {
+        "gogoanime": [
+            "meitantei-conan-zero-no-tea-time",
+            "meitantei-conan-zero-no-tea-time-dub"
+        ],
+        "hianime": [
+            "detective-conan-zero-no-tea-time-18050"
+        ]
+    }
+}

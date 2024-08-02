@@ -1,0 +1,15 @@
+{
+    "id": 222,
+    "anidb": 998,
+    "myanimelist": 222,
+    "title": "Mezzo DSA",
+    "mappings": {
+        "gogoanime": [
+            "mezzo-dsa-dub",
+            "mezzo-dsa"
+        ],
+        "hianime": [
+            "mezzo-dsa-4906"
+        ]
+    }
+}

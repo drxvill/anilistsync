@@ -1,0 +1,15 @@
+{
+    "id": 996,
+    "anidb": 2542,
+    "myanimelist": 996,
+    "title": "Bishoujo Senshi Sailor Moon: Sailor Stars",
+    "mappings": {
+        "gogoanime": [
+            "bishoujo-senshi-sailor-moon-sailor-stars",
+            "bishoujo-senshi-sailor-moon-sailor-stars-dub"
+        ],
+        "hianime": [
+            "sailor-moon-sailor-stars-643"
+        ]
+    }
+}

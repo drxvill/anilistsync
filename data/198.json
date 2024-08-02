@@ -1,0 +1,15 @@
+{
+    "id": 198,
+    "anidb": 2696,
+    "myanimelist": 198,
+    "title": "Speed Grapher",
+    "mappings": {
+        "gogoanime": [
+            "speed-grapher",
+            "speed-grapher-dub"
+        ],
+        "hianime": [
+            "speed-grapher-2087"
+        ]
+    }
+}

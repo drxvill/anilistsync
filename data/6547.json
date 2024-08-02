@@ -1,0 +1,15 @@
+{
+    "id": 6547,
+    "anidb": 6564,
+    "myanimelist": 6547,
+    "title": "Angel Beats!",
+    "mappings": {
+        "gogoanime": [
+            "angel-beats",
+            "angel-beats-dub"
+        ],
+        "hianime": [
+            "angel-beats-321"
+        ]
+    }
+}

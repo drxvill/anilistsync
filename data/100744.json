@@ -1,0 +1,15 @@
+{
+    "id": 100744,
+    "anidb": 13649,
+    "myanimelist": 36927,
+    "title": "Pokemon Movie 21: Minna no Monogatari",
+    "mappings": {
+        "gogoanime": [
+            "pokemon-movie-21-minna-no-monogatari",
+            "pokemon-movie-21-minna-no-monogatari-dub"
+        ],
+        "hianime": [
+            "pokemon-the-movie-the-power-of-us-2765"
+        ]
+    }
+}

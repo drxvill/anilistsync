@@ -1,0 +1,15 @@
+{
+    "id": 20464,
+    "anidb": 10145,
+    "myanimelist": 20583,
+    "title": "Haikyuu!!",
+    "mappings": {
+        "gogoanime": [
+            "haikyuu",
+            "haikyuu-dub"
+        ],
+        "hianime": [
+            "haikyu-76"
+        ]
+    }
+}

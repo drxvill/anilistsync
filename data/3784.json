@@ -1,0 +1,15 @@
+{
+    "id": 3784,
+    "anidb": 6171,
+    "myanimelist": 3784,
+    "title": "Evangelion Movie 2: Ha",
+    "mappings": {
+        "gogoanime": [
+            "evangelion-20-you-can-not-advance",
+            "evangelion-2-0-you-can-not-advance-dub"
+        ],
+        "hianime": [
+            "evangelion-20-you-can-not-advance-176"
+        ]
+    }
+}

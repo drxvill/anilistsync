@@ -1,0 +1,15 @@
+{
+    "id": 21356,
+    "anidb": 11585,
+    "myanimelist": 31592,
+    "title": "Pokemon XY&Z",
+    "mappings": {
+        "gogoanime": [
+            "pokemon-xy-z",
+            "pokemon-xy-z-kanzen-master-special-"
+        ],
+        "hianime": [
+            "pokemon-the-series-xyz-1141"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "id": 859,
+    "anidb": 4283,
+    "myanimelist": 859,
+    "title": "Digimon Savers",
+    "mappings": {
+        "gogoanime": [
+            "digimon-savers",
+            "digimon-savers-dub"
+        ],
+        "hianime": [
+            "digimon-data-squad-3709"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "id": 918,
+    "anidb": 3468,
+    "myanimelist": 918,
+    "title": "Gintama",
+    "mappings": {
+        "gogoanime": [
+            "gintama",
+            "gintama-dub"
+        ],
+        "hianime": [
+            "gintama-13"
+        ]
+    }
+}

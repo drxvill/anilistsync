@@ -1,0 +1,15 @@
+{
+    "id": 1210,
+    "anidb": 4121,
+    "myanimelist": 1210,
+    "title": "NHK ni Youkoso!",
+    "mappings": {
+        "gogoanime": [
+            "welcome-to-the-n-h-k-dub",
+            "welcome-to-the-nhk"
+        ],
+        "hianime": [
+            "welcome-to-the-nhk-186"
+        ]
+    }
+}

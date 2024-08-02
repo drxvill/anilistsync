@@ -1,0 +1,16 @@
+{
+    "id": 813,
+    "anidb": 1530,
+    "myanimelist": 813,
+    "title": "Dragon Ball Z",
+    "mappings": {
+        "gogoanime": [
+            "dragon-ball-z",
+            "dragon-ball-z-dub",
+            "dragonball-z-the-abridged"
+        ],
+        "hianime": [
+            "dragon-ball-z-325"
+        ]
+    }
+}

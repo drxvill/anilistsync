@@ -1,0 +1,15 @@
+{
+    "id": 100298,
+    "anidb": 13517,
+    "myanimelist": 36563,
+    "title": "Megalo Box",
+    "mappings": {
+        "gogoanime": [
+            "megalo-box",
+            "megalo-box-dub"
+        ],
+        "hianime": [
+            "megalobox-603"
+        ]
+    }
+}

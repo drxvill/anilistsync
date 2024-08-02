@@ -1,0 +1,16 @@
+{
+    "id": 101115,
+    "anidb": 13791,
+    "myanimelist": 37283,
+    "title": "Beyblade Burst Chouzetsu",
+    "mappings": {
+        "gogoanime": [
+            "beyblade-burst-chouzetsu",
+            "beyblade-burst-chouzetsu-dub",
+            "beyblade-burst-god-dub"
+        ],
+        "hianime": [
+            "beyblade-burst-turbo-6820"
+        ]
+    }
+}

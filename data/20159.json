@@ -1,0 +1,15 @@
+{
+    "id": 20159,
+    "anidb": 10031,
+    "myanimelist": 20159,
+    "title": "Pokemon: The Origin",
+    "mappings": {
+        "gogoanime": [
+            "pokemon-origins",
+            "pokemon-the-origin-dub"
+        ],
+        "hianime": [
+            "pokemon-origins-872"
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "id": 603,
+    "anidb": 1413,
+    "myanimelist": 603,
+    "title": "Futari wa Precure",
+    "mappings": {
+        "gogoanime": [
+            "pretty-cure",
+            "futari-wa-precure-dub",
+            "futari-wa-precure-splashstar-2006"
+        ],
+        "hianime": [
+            "pretty-cure-3586"
+        ]
+    }
+}

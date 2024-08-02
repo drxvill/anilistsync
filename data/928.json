@@ -1,0 +1,17 @@
+{
+    "id": 928,
+    "anidb": 2806,
+    "myanimelist": 928,
+    "title": "Transformers Galaxy Force",
+    "mappings": {
+        "gogoanime": [
+            "transformers-galaxy-force",
+            "transformers-galaxy-force-dub",
+            "transformers-war-for-cybertron-trilogy",
+            "transformers-war-for-cybertron"
+        ],
+        "hianime": [
+            "transformers-cybertron-5076"
+        ]
+    }
+}

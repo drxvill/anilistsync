@@ -1,0 +1,16 @@
+{
+    "id": 235,
+    "anidb": 266,
+    "myanimelist": 235,
+    "title": "Meitantei Conan",
+    "mappings": {
+        "gogoanime": [
+            "detective-conan",
+            "detective-conan-dub",
+            "detective-conan-remastered"
+        ],
+        "hianime": [
+            "case-closed-323"
+        ]
+    }
+}

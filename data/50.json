@@ -1,0 +1,15 @@
+{
+    "id": 50,
+    "anidb": 2533,
+    "myanimelist": 50,
+    "title": "Aa! Megami-sama! (TV)",
+    "mappings": {
+        "gogoanime": [
+            "-ah-my-goddess-itsumo-futari-de",
+            "ah-my-goddess-everyone-has-wings-"
+        ],
+        "hianime": [
+            "ah-my-goddess-2046"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "id": 1022,
+    "anidb": 190,
+    "myanimelist": 1022,
+    "title": "Generator Gawl",
+    "mappings": {
+        "gogoanime": [
+            "generator-gawl-dub",
+            "generator-gawl"
+        ],
+        "hianime": [
+            "generator-gawl-3822"
+        ]
+    }
+}

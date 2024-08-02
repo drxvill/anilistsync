@@ -1,0 +1,15 @@
+{
+    "id": 512,
+    "anidb": 286,
+    "myanimelist": 512,
+    "title": "Majo no Takkyuubin",
+    "mappings": {
+        "gogoanime": [
+            "majo-no-takkyuubin",
+            "kikis-delivery-service"
+        ],
+        "hianime": [
+            "kikis-delivery-service-257"
+        ]
+    }
+}

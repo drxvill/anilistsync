@@ -1,0 +1,15 @@
+{
+    "id": 474,
+    "anidb": 67,
+    "myanimelist": 474,
+    "title": "Macross Plus",
+    "mappings": {
+        "gogoanime": [
+            "macross-plus-",
+            "macross-plus-dub"
+        ],
+        "hianime": [
+            "macross-plus-989"
+        ]
+    }
+}

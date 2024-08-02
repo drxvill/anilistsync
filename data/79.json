@@ -1,0 +1,15 @@
+{
+    "id": 79,
+    "anidb": 2844,
+    "myanimelist": 79,
+    "title": "Shuffle!",
+    "mappings": {
+        "gogoanime": [
+            "shuffle",
+            "shuffle-dub"
+        ],
+        "hianime": [
+            "shuffle-3125"
+        ]
+    }
+}

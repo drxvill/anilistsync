@@ -1,0 +1,15 @@
+{
+    "id": 97634,
+    "anidb": 12407,
+    "myanimelist": 34034,
+    "title": "Pokemon Sun & Moon",
+    "mappings": {
+        "gogoanime": [
+            "pokemon-sun-and-moon-dub",
+            "pokemon-sun-moon"
+        ],
+        "hianime": [
+            "pokemon-the-series-sun-moon-3918"
+        ]
+    }
+}

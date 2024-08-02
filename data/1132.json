@@ -1,0 +1,16 @@
+{
+    "id": 1132,
+    "anidb": 464,
+    "myanimelist": 1132,
+    "title": "Digimon Frontier",
+    "mappings": {
+        "gogoanime": [
+            "digimon-frontier",
+            "digimon-frontier-dub",
+            "pokemon-season-09-battle-frontier"
+        ],
+        "hianime": [
+            "digimon-frontier-2903"
+        ]
+    }
+}

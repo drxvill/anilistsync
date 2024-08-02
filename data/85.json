@@ -1,0 +1,15 @@
+{
+    "id": 85,
+    "anidb": 718,
+    "myanimelist": 85,
+    "title": "Kidou Senshi Zeta Gundam",
+    "mappings": {
+        "gogoanime": [
+            "mobile-suit-zeta-gundam-dub",
+            "mobile-suit-zeta-gundam"
+        ],
+        "hianime": [
+            "mobile-suit-zeta-gundam-633"
+        ]
+    }
+}

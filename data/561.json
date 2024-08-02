@@ -1,0 +1,15 @@
+{
+    "id": 561,
+    "anidb": 400,
+    "myanimelist": 561,
+    "title": "Sakura Taisen",
+    "mappings": {
+        "gogoanime": [
+            "sakura-wars",
+            "sakura-wars-dub"
+        ],
+        "hianime": [
+            "sakura-wars-4013"
+        ]
+    }
+}

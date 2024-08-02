@@ -1,0 +1,16 @@
+{
+    "id": 153,
+    "anidb": 26,
+    "myanimelist": 153,
+    "title": "Juuni Kokuki",
+    "mappings": {
+        "gogoanime": [
+            "juuni-kokuki-dub",
+            "the-twelve-kingdoms",
+            "kingdom-chinese-name"
+        ],
+        "hianime": [
+            "the-twelve-kingdoms-447"
+        ]
+    }
+}

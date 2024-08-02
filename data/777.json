@@ -1,0 +1,17 @@
+{
+    "id": 777,
+    "anidb": 3296,
+    "myanimelist": 777,
+    "title": "Hellsing Ultimate",
+    "mappings": {
+        "gogoanime": [
+            "hellsing-ultimate",
+            "hellsing-ultimate-dub",
+            "hellsing-ultimate-uncensored",
+            "the-ultimate-dan-god"
+        ],
+        "hianime": [
+            "hellsing-ultimate-133"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "id": 162147,
+    "anidb": 17883,
+    "myanimelist": 54633,
+    "title": "Pokemon Concierge",
+    "mappings": {
+        "gogoanime": [
+            "pokemon-concierge",
+            "pokemon-concierge-dub"
+        ],
+        "hianime": [
+            "pokemon-concierge-18928"
+        ]
+    }
+}

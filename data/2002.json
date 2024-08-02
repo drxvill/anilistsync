@@ -1,0 +1,15 @@
+{
+    "id": 2002,
+    "anidb": 5025,
+    "myanimelist": 2002,
+    "title": "Heroic Age",
+    "mappings": {
+        "gogoanime": [
+            "heroic-age",
+            "heroic-age-dub"
+        ],
+        "hianime": [
+            "heroic-age-1378"
+        ]
+    }
+}

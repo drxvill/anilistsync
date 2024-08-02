@@ -1,0 +1,15 @@
+{
+    "id": 16592,
+    "anidb": 9555,
+    "myanimelist": 16592,
+    "title": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation",
+    "mappings": {
+        "gogoanime": [
+            "-danganronpa-the-animation",
+            "danganronpa-the-animation-dub"
+        ],
+        "hianime": [
+            "danganronpa-the-animation-2237"
+        ]
+    }
+}

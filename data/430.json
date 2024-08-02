@@ -1,0 +1,15 @@
+{
+    "id": 430,
+    "anidb": 2359,
+    "myanimelist": 430,
+    "title": "Fullmetal Alchemist: The Conqueror of Shamballa",
+    "mappings": {
+        "gogoanime": [
+            "fullmetal-alchemist-the-conqueror-of-shamballa",
+            "fullmetal-alchemist-the-conqueror-of-shamballa-dub"
+        ],
+        "hianime": [
+            "fullmetal-alchemist-the-movie-conqueror-of-shamballa-1316"
+        ]
+    }
+}

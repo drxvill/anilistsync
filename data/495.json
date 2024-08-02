@@ -1,0 +1,16 @@
+{
+    "id": 495,
+    "anidb": 701,
+    "myanimelist": 495,
+    "title": "Bakuretsu Hunters",
+    "mappings": {
+        "gogoanime": [
+            "bakuretsu-hunters-dub",
+            "bakuretsu-hunters-ova-dub",
+            "sorcerer-hunters"
+        ],
+        "hianime": [
+            "sorcerer-hunters-4787"
+        ]
+    }
+}

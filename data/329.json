@@ -1,0 +1,15 @@
+{
+    "id": 329,
+    "anidb": 895,
+    "myanimelist": 329,
+    "title": "Planetes",
+    "mappings": {
+        "gogoanime": [
+            "planetes",
+            "planetes-dub"
+        ],
+        "hianime": [
+            "planetes-210"
+        ]
+    }
+}

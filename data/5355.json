@@ -1,0 +1,16 @@
+{
+    "id": 5355,
+    "anidb": 6284,
+    "myanimelist": 5355,
+    "title": "Sengoku Basara",
+    "mappings": {
+        "gogoanime": [
+            "sengoku-basara-",
+            "sengoku-basara-two-dub",
+            "sengoku-basara-dub"
+        ],
+        "hianime": [
+            "sengoku-basara-samurai-kings-1864"
+        ]
+    }
+}

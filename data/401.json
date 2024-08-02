@@ -1,0 +1,15 @@
+{
+    "id": 401,
+    "anidb": 195,
+    "myanimelist": 401,
+    "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen",
+    "mappings": {
+        "gogoanime": [
+            "rurouni-kenshin-seisouhen-dub",
+            "rurouni-kenshin-meiji-kenkaku-romantan-seisou-hen"
+        ],
+        "hianime": [
+            "samurai-x-reflection-526"
+        ]
+    }
+}

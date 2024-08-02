@@ -1,0 +1,15 @@
+{
+    "id": 1313,
+    "anidb": 561,
+    "myanimelist": 1313,
+    "title": "Digimon Adventure 02",
+    "mappings": {
+        "gogoanime": [
+            "digimon-adventure-dub",
+            "digimon-adventure-02-dub"
+        ],
+        "hianime": [
+            "digimon-adventure-02-2510"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "id": 274,
+    "anidb": 251,
+    "myanimelist": 274,
+    "title": "Kiddy Grade",
+    "mappings": {
+        "gogoanime": [
+            "kiddy-grade",
+            "kiddy-grade-dub"
+        ],
+        "hianime": [
+            "kiddy-grade-2638"
+        ]
+    }
+}

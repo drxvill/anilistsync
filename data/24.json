@@ -1,0 +1,15 @@
+{
+    "id": 24,
+    "anidb": 2165,
+    "myanimelist": 24,
+    "title": "School Rumble",
+    "mappings": {
+        "gogoanime": [
+            "school-rumble",
+            "school-rumble-dub"
+        ],
+        "hianime": [
+            "school-rumble-606"
+        ]
+    }
+}

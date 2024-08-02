@@ -1,0 +1,15 @@
+{
+    "id": 123,
+    "anidb": 87,
+    "myanimelist": 123,
+    "title": "Fushigi Yuugi",
+    "mappings": {
+        "gogoanime": [
+            "fushigi-yuug",
+            "fushigi-yuugi-dub"
+        ],
+        "hianime": [
+            "mysterious-play-1153"
+        ]
+    }
+}

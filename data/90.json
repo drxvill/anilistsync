@@ -1,0 +1,15 @@
+{
+    "id": 90,
+    "anidb": 229,
+    "myanimelist": 90,
+    "title": "Shin Kidou Senki Gundam Wing",
+    "mappings": {
+        "gogoanime": [
+            "gundam-wing",
+            "mobile-suit-gundam-wing-dub"
+        ],
+        "hianime": [
+            "mobile-suit-gundam-wing-968"
+        ]
+    }
+}

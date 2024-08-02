@@ -1,0 +1,15 @@
+{
+    "id": 961,
+    "anidb": 1647,
+    "myanimelist": 961,
+    "title": "Virtua Fighter",
+    "mappings": {
+        "gogoanime": [
+            "virtua-fighter-dub",
+            "virtua-fighter"
+        ],
+        "hianime": [
+            "virtua-fighter-3203"
+        ]
+    }
+}

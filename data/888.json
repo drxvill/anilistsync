@@ -1,0 +1,15 @@
+{
+    "id": 888,
+    "anidb": 253,
+    "myanimelist": 888,
+    "title": "Megami Kouhosei",
+    "mappings": {
+        "gogoanime": [
+            "megami-kouhosei-dub",
+            "pilot-candidate"
+        ],
+        "hianime": [
+            "megami-kouhosei-6206"
+        ]
+    }
+}

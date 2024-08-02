@@ -1,0 +1,15 @@
+{
+    "id": 5,
+    "anidb": 219,
+    "myanimelist": 5,
+    "title": "Cowboy Bebop: Tengoku no Tobira",
+    "mappings": {
+        "gogoanime": [
+            "cowboy-bebop-tengoku-no-tobira",
+            "cowboy-bebop-tengoku-no-tobira-dub"
+        ],
+        "hianime": [
+            "cowboy-bebop-the-movie-153"
+        ]
+    }
+}

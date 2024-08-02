@@ -1,0 +1,15 @@
+{
+    "id": 98607,
+    "anidb": 13114,
+    "myanimelist": 35427,
+    "title": "Animegataris",
+    "mappings": {
+        "gogoanime": [
+            "animegataris",
+            "animegataris-dub"
+        ],
+        "hianime": [
+            "anime-gataris-6078"
+        ]
+    }
+}

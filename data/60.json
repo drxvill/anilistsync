@@ -1,0 +1,15 @@
+{
+    "id": 60,
+    "anidb": 1052,
+    "myanimelist": 60,
+    "title": "Chrno Crusade",
+    "mappings": {
+        "gogoanime": [
+            "chrono-crusade",
+            "chrono-crusade-dub"
+        ],
+        "hianime": [
+            "chrono-crusade-1111"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "id": 101036,
+    "anidb": 13774,
+    "myanimelist": 37245,
+    "title": "Gundam Build Divers",
+    "mappings": {
+        "gogoanime": [
+            "gundam-build-divers",
+            "gundam-build-divers-dub"
+        ],
+        "hianime": [
+            "gundam-build-divers-6606"
+        ]
+    }
+}

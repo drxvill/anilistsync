@@ -1,0 +1,16 @@
+{
+    "id": 20786,
+    "anidb": 10636,
+    "myanimelist": 22677,
+    "title": "Appleseed Alpha",
+    "mappings": {
+        "gogoanime": [
+            "appleseed-dub",
+            "appleseed-alpha",
+            "appleseed-alpha-dub"
+        ],
+        "hianime": [
+            "appleseed-alpha-3367"
+        ]
+    }
+}

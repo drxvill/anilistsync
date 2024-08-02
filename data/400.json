@@ -1,0 +1,15 @@
+{
+    "id": 400,
+    "anidb": 171,
+    "myanimelist": 400,
+    "title": "Seihou Bukyou Outlaw Star",
+    "mappings": {
+        "gogoanime": [
+            "outlaw-star",
+            "seihou-bukyou-outlaw-star"
+        ],
+        "hianime": [
+            "outlaw-star-685"
+        ]
+    }
+}

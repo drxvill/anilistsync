@@ -1,0 +1,15 @@
+{
+    "id": 154,
+    "anidb": 92,
+    "myanimelist": 154,
+    "title": "Shaman King",
+    "mappings": {
+        "gogoanime": [
+            "shaman-king",
+            "shaman-king-dub"
+        ],
+        "hianime": [
+            "shaman-king-874"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "id": 150,
+    "anidb": 3186,
+    "myanimelist": 150,
+    "title": "Blood+",
+    "mappings": {
+        "gogoanime": [
+            "-blood"
+        ],
+        "hianime": [
+            "blood-1107"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "id": 902,
+    "anidb": 1069,
+    "myanimelist": 902,
+    "title": "Dragon Ball Z Movie 09: Ginga Girigiri!! Bucchigiri no Sugoi Yatsu",
+    "mappings": {
+        "gogoanime": [
+            "dragon-ball-z-movie-09-bojack-unbound-dub",
+            "dragon-ball-z-movie-9-bojack-unbound"
+        ],
+        "hianime": [
+            "dragon-ball-z-bojack-unbound-2999"
+        ]
+    }
+}

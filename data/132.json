@@ -1,0 +1,15 @@
+{
+    "id": 132,
+    "anidb": 272,
+    "myanimelist": 132,
+    "title": "GetBackers",
+    "mappings": {
+        "gogoanime": [
+            "getbackers-dub",
+            "get-backers"
+        ],
+        "hianime": [
+            "getbackers-1217"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "id": 66,
+    "anidb": 106,
+    "myanimelist": 66,
+    "title": "Azumanga Daiou The Animation",
+    "mappings": {
+        "gogoanime": [
+            "azumanga-daioh",
+            "azumanga-daioh-dub"
+        ],
+        "hianime": [
+            "azumanga-daioh-the-animation-557"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "id": 226,
+    "anidb": 1544,
+    "myanimelist": 226,
+    "title": "Elfen Lied",
+    "mappings": {
+        "gogoanime": [
+            "elfen-lied",
+            "elfen-lied-dub"
+        ],
+        "hianime": [
+            "elfen-lied-1313"
+        ]
+    }
+}

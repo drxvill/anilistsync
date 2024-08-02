@@ -1,0 +1,15 @@
+{
+    "id": 10033,
+    "anidb": 8142,
+    "myanimelist": 10033,
+    "title": "Toriko",
+    "mappings": {
+        "gogoanime": [
+            "toriko",
+            "toriko-dub"
+        ],
+        "hianime": [
+            "toriko-1300"
+        ]
+    }
+}

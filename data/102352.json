@@ -1,0 +1,17 @@
+{
+    "id": 102352,
+    "anidb": 14086,
+    "myanimelist": 37885,
+    "title": "Super Dragon Ball Heroes",
+    "mappings": {
+        "gogoanime": [
+            "dragon-ball-heroes",
+            "super-dragon-ball-heroes-big-bang-mission"
+        ],
+        "hianime": [
+            "super-dragon-ball-heroes-9688",
+            "super-dragon-ball-heroes-big-bang-mission-17970",
+            "super-dragon-ball-heroes-ultra-god-mission-17971"
+        ]
+    }
+}

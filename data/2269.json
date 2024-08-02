@@ -1,0 +1,15 @@
+{
+    "id": 2269,
+    "anidb": 4169,
+    "myanimelist": 2269,
+    "title": "Kidou Senshi Gundam SEED Special Edition",
+    "mappings": {
+        "gogoanime": [
+            "mobile-suit-gundam-seed-special-edition",
+            "mobile-suit-gundam-seed-special-edition-dub"
+        ],
+        "hianime": [
+            "mobile-suit-gundam-seed-special-edition-2229"
+        ]
+    }
+}

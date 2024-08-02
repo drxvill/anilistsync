@@ -1,0 +1,15 @@
+{
+    "id": 270,
+    "anidb": 32,
+    "myanimelist": 270,
+    "title": "Hellsing",
+    "mappings": {
+        "gogoanime": [
+            "hellsing",
+            "hellsing-dub"
+        ],
+        "hianime": [
+            "hellsing-1555"
+        ]
+    }
+}

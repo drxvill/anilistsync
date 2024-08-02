@@ -1,0 +1,16 @@
+{
+    "id": 21455,
+    "anidb": 11736,
+    "myanimelist": 31953,
+    "title": "New Game!",
+    "mappings": {
+        "gogoanime": [
+            "new-game",
+            "new-game-2-dub",
+            "new-game-dub"
+        ],
+        "hianime": [
+            "new-game-1178"
+        ]
+    }
+}

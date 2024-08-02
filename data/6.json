@@ -1,0 +1,15 @@
+{
+    "id": 6,
+    "anidb": 53,
+    "myanimelist": 6,
+    "title": "Trigun",
+    "mappings": {
+        "gogoanime": [
+            "trigun",
+            "trigun-dub"
+        ],
+        "hianime": [
+            "trigun-266"
+        ]
+    }
+}

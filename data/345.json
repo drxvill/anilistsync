@@ -1,0 +1,15 @@
+{
+    "id": 345,
+    "anidb": 2695,
+    "myanimelist": 345,
+    "title": "Eikoku Koi Monogatari Emma",
+    "mappings": {
+        "gogoanime": [
+            "emma-a-victorian-romance",
+            "eikoku-koi-monogatari-emma-dub"
+        ],
+        "hianime": [
+            "emma-a-victorian-romance-1074"
+        ]
+    }
+}

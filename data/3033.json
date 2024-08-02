@@ -1,0 +1,16 @@
+{
+    "id": 3033,
+    "anidb": 1475,
+    "myanimelist": 3033,
+    "title": "Digimon Tamers: Bousou Digimon Tokkyuu",
+    "mappings": {
+        "gogoanime": [
+            "digimon-movie-6-runaway-locomon",
+            "digimon-tamers-bousou-digimon-tokkyuu-dub",
+            "digimon-tamers-the-runaway-digimon-express"
+        ],
+        "hianime": [
+            "digimon-tamers-runaway-locomon-3339"
+        ]
+    }
+}

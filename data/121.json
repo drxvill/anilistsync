@@ -1,0 +1,15 @@
+{
+    "id": 121,
+    "anidb": 979,
+    "myanimelist": 121,
+    "title": "Fullmetal Alchemist",
+    "mappings": {
+        "gogoanime": [
+            "fullmetal-alchemist",
+            "fullmetal-alchemist-dub"
+        ],
+        "hianime": [
+            "fullmetal-alchemist-308"
+        ]
+    }
+}

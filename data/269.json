@@ -1,0 +1,16 @@
+{
+    "id": 269,
+    "anidb": 2369,
+    "myanimelist": 269,
+    "title": "Bleach",
+    "mappings": {
+        "gogoanime": [
+            "bleach",
+            "bleach-dub",
+            "bleach-ova"
+        ],
+        "hianime": [
+            "bleach-806"
+        ]
+    }
+}

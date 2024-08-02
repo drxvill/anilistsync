@@ -1,0 +1,16 @@
+{
+    "id": 1815,
+    "anidb": 4388,
+    "myanimelist": 1815,
+    "title": "Shakugan no Shana Movie",
+    "mappings": {
+        "gogoanime": [
+            "shakugan-no-shana-dub",
+            "shakugan-no-shana-movie-dub",
+            "shakugan-no-shana-movie"
+        ],
+        "hianime": [
+            "shakugan-no-shana-the-movie-1943"
+        ]
+    }
+}

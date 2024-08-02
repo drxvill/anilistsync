@@ -1,0 +1,15 @@
+{
+    "id": 1239,
+    "anidb": 2540,
+    "myanimelist": 1239,
+    "title": "Bishoujo Senshi Sailor Moon SuperS",
+    "mappings": {
+        "gogoanime": [
+            "sailor-moon-supers",
+            "sailor-moon-supers-dub"
+        ],
+        "hianime": [
+            "sailor-moon-supers-1308"
+        ]
+    }
+}

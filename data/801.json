@@ -1,0 +1,16 @@
+{
+    "id": 801,
+    "anidb": 1176,
+    "myanimelist": 801,
+    "title": "Koukaku Kidoutai: Stand Alone Complex 2nd GIG",
+    "mappings": {
+        "gogoanime": [
+            "ghost-in-the-shell-sac-2nd-gig",
+            "ghost-in-the-shell-stand-alone-complex-2nd-gig-dub",
+            "ghost-in-the-shell-stand-alone-complex-dub"
+        ],
+        "hianime": [
+            "ghost-in-the-shell-stand-alone-complex-2nd-gig-82"
+        ]
+    }
+}

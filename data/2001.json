@@ -1,0 +1,16 @@
+{
+    "id": 2001,
+    "anidb": 4575,
+    "myanimelist": 2001,
+    "title": "Tengen Toppa Gurren Lagann",
+    "mappings": {
+        "gogoanime": [
+            "gurren-lagann-dub",
+            "tengen-toppa-gurren-lagann-",
+            "tengen-toppa-gurren-lagann-lagann-hen"
+        ],
+        "hianime": [
+            "gurren-lagann-45"
+        ]
+    }
+}

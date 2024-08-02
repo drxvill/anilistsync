@@ -1,0 +1,16 @@
+{
+    "id": 532,
+    "anidb": 2538,
+    "myanimelist": 532,
+    "title": "Bishoujo Senshi Sailor Moon S",
+    "mappings": {
+        "gogoanime": [
+            "sailor-moon-s",
+            "sailor-moon-s-dub",
+            "sailor-moon-s-movie"
+        ],
+        "hianime": [
+            "sailor-moon-s-720"
+        ]
+    }
+}

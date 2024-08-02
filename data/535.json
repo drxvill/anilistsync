@@ -1,0 +1,15 @@
+{
+    "id": 535,
+    "anidb": 95,
+    "myanimelist": 535,
+    "title": "Slayers Next",
+    "mappings": {
+        "gogoanime": [
+            "slayers-next-",
+            "slayers-next-dub"
+        ],
+        "hianime": [
+            "slayers-next-472"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "id": 111500,
+    "anidb": 15097,
+    "myanimelist": 40403,
+    "title": "Shin Sakura Taisen the Animation",
+    "mappings": {
+        "gogoanime": [
+            "shin-sakura-taisen-the-animation",
+            "shin-sakura-taisen-the-animation-dub"
+        ],
+        "hianime": [
+            "sakura-wars-the-animation-8579"
+        ]
+    }
+}

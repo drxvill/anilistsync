@@ -1,0 +1,15 @@
+{
+    "id": 47,
+    "anidb": 28,
+    "myanimelist": 47,
+    "title": "Akira",
+    "mappings": {
+        "gogoanime": [
+            "akira",
+            "akira-dub"
+        ],
+        "hianime": [
+            "akira-337"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "id": 100815,
+    "anidb": 13691,
+    "myanimelist": 36999,
+    "title": "Zoku Owarimonogatari",
+    "mappings": {
+        "gogoanime": [
+            "zoku-owarimonogatari",
+            "zoku-owarimonogatari-movie"
+        ],
+        "hianime": [
+            "zoku-owarimonogatari-148"
+        ]
+    }
+}

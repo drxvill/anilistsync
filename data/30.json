@@ -1,0 +1,15 @@
+{
+    "id": 30,
+    "anidb": 22,
+    "myanimelist": 30,
+    "title": "Shinseiki Evangelion",
+    "mappings": {
+        "gogoanime": [
+            "neon-genesis-evangelion-",
+            "neon-genesis-evangelion-dub"
+        ],
+        "hianime": [
+            "neon-genesis-evangelion-209"
+        ]
+    }
+}

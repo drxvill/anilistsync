@@ -1,0 +1,15 @@
+{
+    "id": 227,
+    "anidb": 117,
+    "myanimelist": 227,
+    "title": "FLCL",
+    "mappings": {
+        "gogoanime": [
+            "flcl-dub",
+            "fooly-cooly"
+        ],
+        "hianime": [
+            "flcl-485"
+        ]
+    }
+}

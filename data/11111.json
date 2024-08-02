@@ -1,0 +1,15 @@
+{
+    "id": 11111,
+    "anidb": 8556,
+    "myanimelist": 11111,
+    "title": "Another",
+    "mappings": {
+        "gogoanime": [
+            "another-anime",
+            "another-dub"
+        ],
+        "hianime": [
+            "another-1330"
+        ]
+    }
+}

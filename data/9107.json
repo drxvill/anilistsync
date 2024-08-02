@@ -1,0 +1,15 @@
+{
+    "id": 9107,
+    "anidb": 7891,
+    "myanimelist": 9107,
+    "title": "Pokemon Best Wishes!",
+    "mappings": {
+        "gogoanime": [
+            "pokemon-black-white-dub",
+            "pokemon-best-wishes"
+        ],
+        "hianime": [
+            "pokemon-black-white-6125"
+        ]
+    }
+}

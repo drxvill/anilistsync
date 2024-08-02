@@ -1,0 +1,15 @@
+{
+    "id": 110547,
+    "anidb": 15013,
+    "myanimelist": 40128,
+    "title": "Arte",
+    "mappings": {
+        "gogoanime": [
+            "arte",
+            "arte-dub"
+        ],
+        "hianime": [
+            "arte-2812"
+        ]
+    }
+}

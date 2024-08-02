@@ -1,0 +1,16 @@
+{
+    "id": 93,
+    "anidb": 252,
+    "myanimelist": 93,
+    "title": "Kidou Senshi Gundam SEED",
+    "mappings": {
+        "gogoanime": [
+            "gundam-seed",
+            "mobile-suit-gundam-seed-dub",
+            "mobile-suit-gundam-seed-movie"
+        ],
+        "hianime": [
+            "mobile-suit-gundam-seed-825"
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "id": 21394,
+    "anidb": 11672,
+    "myanimelist": 31741,
+    "title": "Magi: Sinbad no Bouken (TV)",
+    "mappings": {
+        "gogoanime": [
+            "magi-sinbad-no-bouken",
+            "magi-sinbad-no-bouken-tv",
+            "magi-sinbad-no-bouken-tv-dub"
+        ],
+        "hianime": [
+            "magi-adventure-of-sinbad-602"
+        ]
+    }
+}

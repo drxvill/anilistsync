@@ -1,0 +1,15 @@
+{
+    "id": 999,
+    "anidb": 385,
+    "myanimelist": 999,
+    "title": "Blue Seed 2",
+    "mappings": {
+        "gogoanime": [
+            "blue-seed-beyond",
+            "blue-seed-2-dub"
+        ],
+        "hianime": [
+            "blue-seed-beyond-6048"
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "id": 208,
+    "anidb": 105,
+    "myanimelist": 208,
+    "title": "R.O.D: Read or Die",
+    "mappings": {
+        "gogoanime": [
+            "read-or-die",
+            "read-or-die-ova",
+            "r-o-d-ova-dub"
+        ],
+        "hianime": [
+            "rod-read-or-die-ova-1089"
+        ]
+    }
+}

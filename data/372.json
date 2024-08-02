@@ -1,0 +1,16 @@
+{
+    "id": 372,
+    "anidb": 514,
+    "myanimelist": 372,
+    "title": "Cardcaptor Sakura Movie 2: Fuuin Sareta Card",
+    "mappings": {
+        "gogoanime": [
+            "cardcaptor-sakura-the-sealed-card",
+            "cardcaptor-sakura-the-movie-dub",
+            "card-captor-sakura-movie-2-the-sealed-card-dub"
+        ],
+        "hianime": [
+            "card-captor-sakura-movie-2-the-sealed-card-289"
+        ]
+    }
+}

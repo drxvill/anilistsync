@@ -1,0 +1,15 @@
+{
+    "id": 101,
+    "anidb": 2002,
+    "myanimelist": 101,
+    "title": "Air",
+    "mappings": {
+        "gogoanime": [
+            "air-dub",
+            "air-tv"
+        ],
+        "hianime": [
+            "air-2206"
+        ]
+    }
+}

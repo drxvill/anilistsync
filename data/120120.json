@@ -1,0 +1,17 @@
+{
+    "id": 120120,
+    "anidb": 15601,
+    "myanimelist": 42249,
+    "title": "Tokyo Revengers",
+    "mappings": {
+        "gogoanime": [
+            "tokyo-revengers",
+            "tokyo-revengers-uncensored",
+            "tokyo-revengers-dub"
+        ],
+        "hianime": [
+            "tokyo-revengers-15585",
+            "tokyo-revengers-uncensored-17874"
+        ]
+    }
+}

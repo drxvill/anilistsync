@@ -1,0 +1,15 @@
+{
+    "id": 127,
+    "anidb": 91,
+    "myanimelist": 127,
+    "title": "Gate Keepers",
+    "mappings": {
+        "gogoanime": [
+            "gate-keepers-dub",
+            "gatekeepers"
+        ],
+        "hianime": [
+            "gate-keepers-3713"
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "id": 9617,
+    "anidb": 8280,
+    "myanimelist": 9617,
+    "title": "K-On! Movie",
+    "mappings": {
+        "gogoanime": [
+            "air-movie-dub",
+            "k-on-movie",
+            "k-on-movie-dub"
+        ],
+        "hianime": [
+            "k-on-the-movie-194"
+        ]
+    }
+}

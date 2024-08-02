@@ -1,0 +1,16 @@
+{
+    "id": 8277,
+    "anidb": 7440,
+    "myanimelist": 8277,
+    "title": "Hyakka Ryouran: Samurai Girls",
+    "mappings": {
+        "gogoanime": [
+            "hyakka-ryouran-samurai-girls",
+            "hyakka-ryouran-samurai-girls-ova-",
+            "hyakka-ryouran-samurai-girls-dub"
+        ],
+        "hianime": [
+            "samurai-girls-4223"
+        ]
+    }
+}
