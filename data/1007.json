@@ -2,8 +2,12 @@
     "id": 1007,
     "anidb": 405,
     "myanimelist": 1007,
-    "title": "Ranma \u00bd OVA",
+    "title": "Ranma 1/2 OVA",
     "mappings": {
+        "gogoanime": [
+            "ranma-12-ova",
+            "ranma-ova-dub"
+        ],
         "hianime": [
             "ranma-ova-906"
         ]

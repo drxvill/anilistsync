@@ -3,5 +3,9 @@
     "anidb": 8135,
     "myanimelist": 10013,
     "title": "Shouwa Monogatari (Movie)",
-    "mappings": {}
+    "mappings": {
+        "gogoanime": [
+            "shouwa-monogatari"
+        ]
+    }
 }

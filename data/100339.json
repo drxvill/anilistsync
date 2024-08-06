@@ -3,5 +3,12 @@
     "anidb": 11634,
     "myanimelist": 31471,
     "title": "MILPOM\u2605",
-    "mappings": {}
+    "mappings": {
+        "gogoanime": [
+            "milpom"
+        ],
+        "hianime": [
+            "milpom-10043"
+        ]
+    }
 }

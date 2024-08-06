@@ -3,5 +3,9 @@
     "anidb": 11540,
     "myanimelist": 32886,
     "title": "Anitore! EX: Jigoku no Training",
-    "mappings": {}
+    "mappings": {
+        "hianime": [
+            "anitore-ex-jigoku-no-training-9498"
+        ]
+    }
 }

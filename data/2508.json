@@ -4,11 +4,12 @@
     "myanimelist": 2508,
     "title": "Genshiken 2",
     "mappings": {
+        "gogoanime": [
+            "genshiken-season-2",
+            "genshiken-2-dub"
+        ],
         "hianime": [
             "genshiken-2-862"
-        ],
-        "gogoanime": [
-            "genshiken-2-dub"
         ]
     }
 }

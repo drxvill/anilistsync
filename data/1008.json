@@ -2,8 +2,12 @@
     "id": 1008,
     "anidb": 2995,
     "myanimelist": 1008,
-    "title": "Ranma \u00bd: Yomigaeru Kioku",
+    "title": "Ranma 1/2: Yomigaeru Kioku",
     "mappings": {
+        "gogoanime": [
+            "ranma-12-ova",
+            "ranma-ova-dub"
+        ],
         "hianime": [
             "ranma-yomigaeru-kioku-1180"
         ]

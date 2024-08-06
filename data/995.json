@@ -3,5 +3,9 @@
     "anidb": 4244,
     "myanimelist": 995,
     "title": "Tennis no Oujisama: Zenkoku Taikai-hen",
-    "mappings": {}
+    "mappings": {
+        "gogoanime": [
+            "the-prince-of-tennis-ova"
+        ]
+    }
 }

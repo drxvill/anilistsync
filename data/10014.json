@@ -5,8 +5,10 @@
     "title": "Shouwa Monogatari",
     "mappings": {
         "gogoanime": [
-            "showa-monogatari",
-            "shouwa-monogatari"
+            "showa-monogatari"
+        ],
+        "hianime": [
+            "shouwa-monogatari-3855"
         ]
     }
 }
