@@ -5,8 +5,8 @@
     "title": "GetBackers",
     "mappings": {
         "gogoanime": [
-            "getbackers-dub",
-            "get-backers"
+            "get-backers",
+            "getbackers-dub"
         ],
         "hianime": [
             "getbackers-1217"
