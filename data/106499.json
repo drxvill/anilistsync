@@ -3,5 +3,9 @@
     "anidb": 11585,
     "myanimelist": 34325,
     "title": "Pokemon XY&Z Specials",
-    "mappings": {}
+    "mappings": {
+        "gogoanime": [
+            "pokemon-xy-z-kanzen-master-special-"
+        ]
+    }
 }

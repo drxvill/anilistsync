@@ -4,11 +4,12 @@
     "myanimelist": 1733,
     "title": "eX-Driver: Nina & Rei Danger Zone",
     "mappings": {
+        "gogoanime": [
+            "ex-driver-nina-rei-danger-zone",
+            "ex-driver-nina-rei-danger-zone-dub"
+        ],
         "hianime": [
             "ex-driver-nina-rei-danger-zone-5777"
-        ],
-        "gogoanime": [
-            "ex-driver-nina-rei-danger-zone-dub"
         ]
     }
 }

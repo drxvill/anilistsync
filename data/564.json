@@ -2,11 +2,11 @@
     "id": 564,
     "anidb": 65,
     "myanimelist": 564,
-    "title": "Puni Puni\u2606Poemii",
+    "title": "Puni Puni☆Poemii",
     "mappings": {
         "gogoanime": [
-            "puni-punipoemii-dub",
-            "puni-puni-poemy"
+            "puni-puni-poemy",
+            "puni-punipoemii-dub"
         ],
         "hianime": [
             "puni-puni-poemy-5441"

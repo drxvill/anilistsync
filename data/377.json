@@ -5,6 +5,7 @@
     "title": "eX-Driver",
     "mappings": {
         "gogoanime": [
+            "ex-driver",
             "ex-driver-dub"
         ],
         "hianime": [

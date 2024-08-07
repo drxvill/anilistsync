@@ -4,6 +4,10 @@
     "myanimelist": 378,
     "title": "eX-Driver the Movie",
     "mappings": {
+        "gogoanime": [
+            "ex-driver-the-movie",
+            "ex-driver-the-movie-dub"
+        ],
         "hianime": [
             "ex-driver-the-movie-5019"
         ]

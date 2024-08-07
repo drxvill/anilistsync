@@ -3,5 +3,9 @@
     "anidb": 38,
     "myanimelist": 556,
     "title": "Koutetsu Tenshi Kurumi Zero",
-    "mappings": {}
+    "mappings": {
+        "gogoanime": [
+            "steel-angel-kurumi-zero"
+        ]
+    }
 }

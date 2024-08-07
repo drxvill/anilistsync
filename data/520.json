@@ -5,7 +5,8 @@
     "title": "Marmalade Boy Movie",
     "mappings": {
         "gogoanime": [
-            "marmalade-boy"
+            "-marmalade-boy-movie",
+            "marmalade-boy-movie-dub"
         ],
         "hianime": [
             "marmalade-boy-movie-2072"

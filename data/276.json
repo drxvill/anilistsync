@@ -4,6 +4,10 @@
     "myanimelist": 276,
     "title": "Mahoromatic: Automatic Maiden",
     "mappings": {
+        "gogoanime": [
+            "mahoromatic",
+            "mahoromatic-dub"
+        ],
         "hianime": [
             "mahoromatic-automatic-maiden-2809"
         ]

@@ -5,9 +5,8 @@
     "title": "Pokemon",
     "mappings": {
         "gogoanime": [
-            "pokemon-dub",
-            "pokemon-4ever-dub",
-            "pokemon"
+            "pokemon",
+            "pokemon-dub"
         ],
         "hianime": [
             "pokemon-2097"

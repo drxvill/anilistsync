@@ -3,5 +3,9 @@
     "anidb": 2478,
     "myanimelist": 2580,
     "title": "Tsukuyomi: Moon Phase Special",
-    "mappings": {}
+    "mappings": {
+        "gogoanime": [
+            "tsukuyomi-moon-phase-special-dub"
+        ]
+    }
 }

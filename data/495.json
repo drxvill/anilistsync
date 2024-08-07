@@ -5,9 +5,8 @@
     "title": "Bakuretsu Hunters",
     "mappings": {
         "gogoanime": [
-            "bakuretsu-hunters-dub",
-            "bakuretsu-hunters-ova-dub",
-            "sorcerer-hunters"
+            "sorcerer-hunters",
+            "bakuretsu-hunters-dub"
         ],
         "hianime": [
             "sorcerer-hunters-4787"

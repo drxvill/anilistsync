@@ -3,5 +3,9 @@
     "anidb": 3298,
     "myanimelist": 5419,
     "title": "Paniponi Dash!: Danjite Okonaeba Kishin mo Kore wo Saku",
-    "mappings": {}
+    "mappings": {
+        "gogoanime": [
+            "pani-poni-dash-ova"
+        ]
+    }
 }
